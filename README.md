@@ -4,7 +4,7 @@
 
 ## Description
 
-This webpage displays an example of how a website should be structured with properly placed semantic elements in a HTML file that corresponds to an external CSS file. [project] (<index.html>)
+This webpage displays an example of how a website should be structured with properly placed semantic elements in a HTML file that corresponds to an external CSS file.
 
 ---
 
@@ -57,5 +57,11 @@ If websites are not up to date with accessibility, then there could be lawsuits 
 ## Take away
 
 Web Accessibility is a vital piece of web development. It gives everyone the advantage and ability to leverage and learn the same information.
+
+---
+
+## Website preview
+
+![alt text](horiseon-readme-img.png)
 
 ---
