@@ -1,2 +1,2 @@
-# seo-basics.github.io
-Homework-02
+# web-accessibility-website
+projects
