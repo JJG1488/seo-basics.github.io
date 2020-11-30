@@ -163,7 +163,6 @@ footer h4 {
 /* added content: "❤️" for heart */
 #heart::after {
     content: "❤️";
-
 }
 
 /* added content: "©" for copyright symbol */
