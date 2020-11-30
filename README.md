@@ -2,6 +2,22 @@
 
 ---
 
+## Table of contents
+
+* [Description](#Description)
+* [Website-Preview](#Website-Preview)
+* [Live-url](##Live-url)
+* [Developer(s)](#Developer(s))
+* [Technologies](#Technologies)
+* [Foresight](#Foresight)
+* [Incentive](#Incentive)
+* [Challenges](#Challenges)
+* [Reasoning](#Reasoning)
+* [Solution](#Solution)
+* [Take-away](#Take-away)
+
+---
+
 ## Description
 
 This webpage displays an example of how a website should be structured with properly placed semantic elements in a HTML file that corresponds to an external CSS file.
@@ -12,7 +28,7 @@ This webpage displays an example of how a website should be structured with prop
 
 ---
 
-## Link to deployed url
+## Live url
 
 [Link to deployed URL] (<https://jjg1488.github.io/web-accessibility-website/>)
 
