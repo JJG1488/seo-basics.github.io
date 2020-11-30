@@ -6,6 +6,16 @@
 
 This webpage displays an example of how a website should be structured with properly placed semantic elements in a HTML file that corresponds to an external CSS file.
 
+## Website preview
+
+![alt text](horiseon-readme-img.png)
+
+---
+
+## Link to deployed url
+
+[Link to deployed URL] (<https://jjg1488.github.io/web-accessibility-website/>)
+
 ---
 
 ## Developer(s)
@@ -57,11 +67,5 @@ If websites are not up to date with accessibility, then there could be lawsuits 
 ## Take away
 
 Web Accessibility is a vital piece of web development. It gives everyone the advantage and ability to leverage and learn the same information.
-
----
-
-## Website preview
-
-![alt text](horiseon-readme-img.png)
 
 ---
